@@ -1,4 +1,6 @@
-###############################################################################
+# Ad Hoc On-Demand Distance Vector routing protocol
+
+Internet Of Things course Project.
 
 ### Folders and Makefile
 
@@ -40,5 +42,3 @@ All the "#define" in the "main.c" file can be MODIFIED (they are marked as
 "--- MODIFIABLE").
 It is better to keep the "TOT_NODES" value equivalent (or higher) than the 
 actual number of nodes.
-
-###############################################################################
